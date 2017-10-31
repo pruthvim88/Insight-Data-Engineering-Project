@@ -1,8 +1,8 @@
-# Introduction
+## Description
 
 Extracting total contributions by individual donors of a political fund raising campaign and obtain the total and median amount contributions of each donor along with the total number of donations based on their zipcode and the dates of contribution
 
-# Instructions
+## Run Instructions
 
 Place the input files to execute in the directory input.
 
