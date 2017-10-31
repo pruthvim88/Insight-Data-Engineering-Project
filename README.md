@@ -2,6 +2,6 @@
 
 ## Instructions
 
--> Place the input files to execute in the directory input
--> Once the files are placed execute the run.sh script to generate the output files
--> Validate the results obtained of the files generated based on the contribution date and the location zipcode of the donor
+-> Place the input files to execute in the directory input \n
+-> Once the files are placed execute the run.sh script to generate the output files \n
+-> Validate the results obtained of the files generated based on the contribution date and the location zipcode of the donor \n
